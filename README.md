@@ -1,0 +1,1 @@
+This repository contains a comprehensive collection of data structures and algorithms implemented in C programming language. Each implementation is crafted with an emphasis on efficiency, clarity, and real-world application. This repository is an excellent resource for anyone looking to understand the fundamentals of algorithms and data structures using C language.
